@@ -1,5 +1,13 @@
 ## Bem vindo ao meu Git!
+
 <div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-Js" height="80" width="150" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+  </div>
+  
+  
+  
+<div style="display: inline_block"><br>
+  
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
 </div>
@@ -10,7 +18,7 @@
  <a href="https://www.linkedin.com/in/gabriel-martins-2a05b8235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-  
+  ##
  </div>
 
 
@@ -20,7 +28,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsGabrielR&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-
+##
 
  
  
