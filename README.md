@@ -1,7 +1,7 @@
+[![MasterHead](https://camo.githubusercontent.com/4cf6c8c01abe3d6dd673f33c4a05597a690778d4e98b54fc465af40df79334f4/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966)](https://rishavchanda.io)
 ## welcome to my github!
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-Js" height="80" width="150" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
   </div>
   
   
