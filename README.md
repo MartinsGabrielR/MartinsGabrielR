@@ -32,7 +32,6 @@
 
  
  
- <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b76114b5150dacc2413e7440cc0444300a8d28b66217b&rid=giphy.gif&ct=g">
   
  </div>
 
