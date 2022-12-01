@@ -1,4 +1,4 @@
-## Bem vindo ao meu Git!
+## welcome to my github!
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-Js" height="80" width="150" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
